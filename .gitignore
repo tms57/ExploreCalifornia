@@ -1,0 +1,9 @@
+*.txt
+seo-bogus.log
+*.zip
+*.gz
+log/*.log
+log/*.log.[0-9]
+assests/photoshop/
+assets/videos/
+!assets/videos/tour_*.mp4
